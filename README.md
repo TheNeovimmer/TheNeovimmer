@@ -36,6 +36,7 @@
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReact&subtitle=React+Native+Mobile+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siPython&subtitle=Python+Scripting&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTypescript&subtitle=Type+Safe+TS&size=square&rounded=24" /></a>
+   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLua&subtitle=Lua+Scripting&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGo&subtitle=Fast+Backends&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDocker&subtitle=CI/CD+Automations&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siKubernetes&subtitle=Cloud-Native+Infra&size=square&rounded=24" /></a>
