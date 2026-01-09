@@ -55,7 +55,7 @@
  # <p align="center">🔥 GitHub Stats </p>
   <div align="center">
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=TheNeovimmer" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=bouzayenilyes" alt="GitHub Streak" />
 </a>
   </div>
 
