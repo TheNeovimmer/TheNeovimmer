@@ -63,38 +63,6 @@
 
 ---
 
-# <p align="center">🚀 My Project Demos & Key Specs</p>
-
-<table align="center">
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td><strong>Vorex</strong><br>AI‑powered delivery & warehouse optimization (TSP/VRP) • Next.js • React Native • Python • Kubernetes • Docker</td>
-      <td><a href="https://bouzayenilyes.vercel.app/#vorex-demo">Voir Demo</a></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td><strong>AI Email SaaS</strong><br>Smart email client using Next.js 14 • AI suggestions • Clerk • Stripe • Pinecone</td>
-      <td><a href="https://bouzayenilyes.vercel.app/#ai-email-demo">Voir Demo</a></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td><strong>EduLab LMS</strong><br>LMS built with Laravel & TailwindCSS • quizzes, enrolment, dashboards, payments</td>
-      <td><a href="https://bouzayenilyes.vercel.app/#edulab-demo">Voir Demo</a></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td><strong>RestroProSaaS</strong><br>POS & restaurant SaaS • React • Node.js • MongoDB • Stripe • Inventory & multi-location</td>
-      <td><a href="https://bouzayenilyes.vercel.app/#restropro-demo">Voir Demo</a></td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td><strong>AI Course Generator</strong><br>Text‑to‑course SaaS with video/image AI gen • Next.js • OpenAI/Pinecone • Stripe • Admin dashboard</td>
-      <td><a href="https://bouzayenilyes.vercel.app/#coursegen-demo">Voir Demo</a></td>
-    </tr>
-  </tbody>
-</table>
-
 ---
 
 # <p align="center">💖 Thanks to my supporters</p>
@@ -110,7 +78,7 @@
 # <p align="center">📫 Reach Me</p>
 
 <p align="center">
-  💼 <a href="https://bouzayenilyes.vercel.app">ilyesbouzayen.dev</a> • 
+  💼 <a href="https://ilyes-bouzayen.vercel.app">ilyes-bouzayen.vercel.app</a> • 
   📨 <a href="mailto:ilyes.bouzayen@hotmail.com">ilyes.bouzayen@hotmail.com</a> • 
   🌍 Sousse, Tunisia
 </p>
