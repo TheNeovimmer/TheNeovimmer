@@ -54,10 +54,9 @@
 <details>
   <summary><b>🔥 GitHub Stats</b></summary>
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNeovimmer&theme=catppuccin-mocha&hide_border=false&border_radius=10" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=TheNeovimmer&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNeovimmer&layout=compact&theme=tokyonight&langs_count=6" height="180" />
+   <a href="https://git.io/streak-stats">
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=TheNeovimmer&theme=catppuccin-frappe" alt="GitHub Streak" />
+   </a>
   </div>
 </details>
 
