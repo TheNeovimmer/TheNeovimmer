@@ -54,9 +54,9 @@
 
  # <p align="center">🔥 GitHub Stats </p>
   <div align="center">
-   <a href="https://git.io/streak-stats">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=TheNeovimmer&theme=catppuccin-frappe" alt="GitHub Streak" />
-   </a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=TheNeovimmer" alt="GitHub Streak" />
+</a>
   </div>
 
 
