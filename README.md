@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://bouzayenilyes.vercel.app">
+  <a href="https://ilyes-bouzayen.vercel.app">
     <img src="https://f56mdiqn9v.ufs.sh/f/9LjNuV21boChqBeu2uQIsNwHT3cpaYZhU1VdoFBKLPmWt75E" alt="Ilyes Bouzayen Banner"/>
   </a>
 </div>
@@ -7,19 +7,19 @@
 # <p align="center">💡Minimalist Full Stack Dev · Software Engineer · App Builder · DevOps Automator — I ship fast, scale clean, and type faster than my CI/CD runs.</p>
 
 <div align="center">
-  <a href="https://github.com/sponsors/bouzayenilyes">
+  <a href="https://github.com/sponsors/TheNeovimmer">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGithubsponsors&subtitle=Support+my+work&size=square&rounded=24" />
   </a>
   <a href="https://x.com/ilyesbouzayen">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siX&subtitle=Code+Thoughts&size=square&rounded=24" />
   </a>
-  <a href="https://www.linkedin.com/in/bouzayenilyes">
+  <a href="https://www.linkedin.com/in/ilyesbouzayen">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLinkedin&subtitle=Let’s+Connect&size=square&rounded=24" />
   </a>
   <a href="https://www.reddit.com/user/Defiant_Cobbler_4480/">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReddit&subtitle=Dev+Discussions&size=square&rounded=24" />
   </a>
-  <a href="https://leetcode.com/u/bouzayenilyes/">
+  <a href="https://leetcode.com/u/ilyesbouzayen/">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLeetcode&subtitle=DSA+Challenges&size=square&rounded=24" />
   </a>
 </div>
@@ -65,7 +65,7 @@
 # <p align="center">💖 Thanks to my supporters</p>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/bouzayenilyes">
+  <a href="https://buymeacoffee.com/ilyesbouzayen">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siBuymeacoffee&subtitle=Ilyes+Bouzayen&size=square&rounded=24" />
   </a>
 </div>
