@@ -19,7 +19,7 @@
   <a href="https://www.reddit.com/user/Defiant_Cobbler_4480/">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReddit&subtitle=Dev+Discussions&size=square&rounded=24" />
   </a>
-  <a href="https://leetcode.com/u/ilyesbouzayen/">
+  <a href="https://leetcode.com/u/Theneovimmer/">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLeetcode&subtitle=DSA+Challenges&size=square&rounded=24" />
   </a>
 </div>
