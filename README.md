@@ -31,7 +31,7 @@
 
 <div align="center">
 
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNextdotjs&subtitle=Next.js+for+UI&size=square&rounded=24" /></a><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheNeovimmer&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNextdotjs&subtitle=Next.js+for+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTailwindcss&subtitle=TailwindCSS+For+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReact&subtitle=React+Native+Mobile+UI&size=square&rounded=24" /></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siPython&subtitle=Python+Scripting&size=square&rounded=24" /></a>
