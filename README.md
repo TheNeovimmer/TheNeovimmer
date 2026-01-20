@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# <p align="center">💡Minimalist Full Stack Dev · Software Engineer · App Builder · DevOps Automator — I ship fast, scale clean, and type faster than my CI/CD runs.</p>
+# <p align="center">💡Minimalist Software Developer · Open Sourcer · App Builder · DevOps Automator — I ship fast, scale clean, and type faster than my CI/CD runs.</p>
 
 <div align="center">
   <a href="https://github.com/sponsors/TheNeovimmer">
