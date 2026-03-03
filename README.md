@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://ilyes-bouzayen.vercel.app">
-    <img src="https://f56mdiqn9v.ufs.sh/f/9LjNuV21boCh5ZyCVVJp2b6O4wYKmfueoGQnHUVtp9lR1vBJ" alt="Ilyes Bouzayen Banner"/>
+    <img src="https://f56mdiqn9v.ufs.sh/f/9LjNuV21boChXOqlzkFQv4BEyiZp7TOLJmUheYjsdztalrfo" alt="Ilyes Bouzayen Banner"/>
   </a>
 </div>
 
