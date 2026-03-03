@@ -27,8 +27,8 @@
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siPython&subtitle=Python+Scripting&size=square&rounded=24" /></a>
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTypescript&subtitle=Type+Safe+TS&size=square&rounded=24" /></a>
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siArchlinux&subtitle=Arch+Linux+FTW&size=square&rounded=24" /></a>
-<a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLua&subtitle=Lua+Scripting&size=square&rounded=24" /></a>
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGo&subtitle=Fast+Backends&size=square&rounded=24" /></a>
+<a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLua&subtitle=Lua+Scripting&size=square&rounded=24" /></a>
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNeovim&subtitle=Neovim+IDE&size=square&rounded=24" /></a>
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRust&subtitle=Blazing+Fast+Rust&size=square&rounded=24" /></a>
 
