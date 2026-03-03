@@ -33,7 +33,6 @@
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTmux&subtitle=Tmux&size=square&rounded=24" /></a>
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siZsh&subtitle=Zsh&size=square&rounded=24" /></a>
 
-
 </div>
 
 ---
@@ -48,8 +47,14 @@
 
 # <p align="center">📫 Reach Me</p>
 
-<p align="center">
-  💼 <a href="https://ilyes-bouzayen.vercel.app">ilyes-bouzayen.vercel.app</a> • 
-  📨 <a href="mailto:ilyes.bouzayen@hotmail.com">ilyes.bouzayen@hotmail.com</a> • 
-  🌍 Sousse, Tunisia
-</p>
+<div align="center">
+  <a href="https://ilyes-bouzayen.vercel.app">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siVercel&subtitle=Portfolio&size=square&rounded=24" />
+  </a>
+  <a href="mailto:ilyes.bouzayen@hotmail.com">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siMicrosoftoutlook&subtitle=Mail+Me&size=square&rounded=24" />
+  </a>
+  <a href="https://www.google.com/maps/search/Sousse+Tunisia">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGooglemaps&subtitle=Tunisia&size=square&rounded=24" />
+  </a>
+</div>
