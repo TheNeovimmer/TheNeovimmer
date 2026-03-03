@@ -26,7 +26,7 @@
 
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siArchlinux&subtitle=Arch+Linux+FTW&size=square&rounded=24" /></a>
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNeovim&subtitle=Neovim+IDE&size=square&rounded=24" /></a>
-<a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLinux&subtitle=Linux&size=square&rounded=24" /></a>
+<a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTmux&subtitle=Tmux&size=square&rounded=24" /></a>
 
 </div>
 
