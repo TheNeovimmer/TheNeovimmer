@@ -16,6 +16,10 @@
   <a href="https://www.linkedin.com/in/ilyesbouzayen">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLinkedin&subtitle=Let’s+Connect&size=square&rounded=24" />
   </a>
+  <a href="https://bsky.app/profile/theneovimmer.bsky.social">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLeetcode&subtitle=Let’s+Connect&size=square&rounded=24" />
+  </a>
+
 </div>
 
 ---
