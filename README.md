@@ -57,4 +57,7 @@
   <a href="https://www.google.com/maps/search/Sousse+Tunisia">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGooglemaps&subtitle=Tunisia&size=square&rounded=24" />
   </a>
+  <a href="https://discord.com/users/TheNeovimmer">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDiscord&subtitle=TheNeovimmer&size=square&rounded=24" />
+  </a>
 </div>
