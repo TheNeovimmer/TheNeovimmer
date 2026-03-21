@@ -32,6 +32,7 @@
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNeovim&subtitle=Neovim+IDE&size=square&rounded=24" /></a>
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTmux&subtitle=Tmux&size=square&rounded=24" /></a>
 <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siZsh&subtitle=Zsh&size=square&rounded=24" /></a>
+<a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGhostty&subtitle=Ghostty&size=square&rounded=24" /></a>
 
 </div>
 
