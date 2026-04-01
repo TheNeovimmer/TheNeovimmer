@@ -1,11 +1,12 @@
+```bash
 -- ~/whoami
 
 local theNeovimmer = {
-  role = "software Developer ",
+  role = "Software Developer",
   company = "99syntax",
   location = "Vilnius, Lithuania",
-  languages = { "typescript", "rust", "lua", "golang" },
-  editor = "neovim",
+  languages = { "TypeScript", "Rust", "Lua", "Go" },
+  editor = "Neovim",
   site = "https://ilyes-bouzayen.vercel.app",
   x = "https://x.com/TheNeovimmer",
 }
