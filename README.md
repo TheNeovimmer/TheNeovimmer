@@ -7,6 +7,6 @@ local theNeovimmer = {
   location = "Vilnius, Lithuania",
   languages = { "TypeScript", "Rust", "Lua", "Go" },
   editor = "Neovim",
-  site = "https://ilyes-bouzayen.vercel.app",
+  site = "https://theneovimmer.vercel.app",
   x = "https://x.com/TheNeovimmer",
 }
